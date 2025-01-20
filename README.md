@@ -33,10 +33,12 @@ The package includes the following files:
 - **`README.md`**: This document.
 - **`requirements.txt`**: Lists all Python dependencies required for the package.
 
-## Usage
-### Notebook Example
-Check `underwriting_template.ipynb` for a step-by-step guide on using the package.
+### Usage
+#### Notebook Example
+Check `underwriting_template.ipynb` for a step-by-step guide on using the package. It provides an interactive workflow that complements the analysis detailed in the PDF example.
 
+#### PDF Example
+Refer to `ExampleAnalysis.pdf` for a detailed analysis report. This document follows the steps outlined in the notebook, providing a comprehensive explanation of data cleaning, cohort analysis, projections, and parameter selection.
 ## Testing
 Run the test suite to ensure everything is working correctly:
 ```bash
