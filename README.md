@@ -1,6 +1,5 @@
 # Cohort Payment Data Analysis Package
-
-This Python package provides tools for analyzing a company's cohort payment data, enabling deeper insights into customer behavior, revenue patterns, and cohort trends. It is designed to be modular and extensible, making it suitable for various types of analyses, from exploratory to in-depth statistical modeling.
+This Python package is designed to analyze a company's cohort payment data with the specific goal of determining whether the company's Customer Acquisition Cost (CAC) and Sales & Marketing (S&M) spend justify investment. The package not only provides tools for this analysis but also helps define investment rules to ensure early exits from failing investments while maintaining a focus on Return on Investment (ROI). It is designed to be modular and extensible, making it easily applicable to multiple companies' data, regardless of industry.
 
 ## Features
 - **Preprocessing Tools**: Prepare raw payment data for analysis by cleaning, transforming, and structuring it into analyzable formats.
